@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment / credentials
+.env
+*.env
+secrets.*
+credentials.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large/raw data
+data/raw/
+*.zip
+
+# Database backups
+*.sql.gz
+*.backup
+*.dump
